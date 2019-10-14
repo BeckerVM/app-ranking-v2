@@ -2,9 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      APP RANKING V2
-    </div>
+    <div className="bg-blue-100 text-white">Hello World!</div>
   );
 }
 
